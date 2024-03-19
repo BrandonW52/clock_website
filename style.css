@@ -50,7 +50,8 @@ a {
   left: 50%;
   transform: translate(-50%, -50%);
 
-  height: 7em;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 
   background-color: #3b3b3b;
   border-radius: 8px;
